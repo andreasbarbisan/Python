@@ -4,6 +4,7 @@ import pandas as pd
 from scipy.optimize import minimize
 import matplotlib.ticker as mtick
 
+
 # caminho do arquivo com os dados
 caminho_arquivo = r"C:\Users\andreas\Downloads\Base de Dados Final.xlsx"
 
