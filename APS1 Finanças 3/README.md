@@ -35,7 +35,7 @@ Este projeto explora o uso de derivativos financeiros na gestão de risco, aplic
 
 - **aplicacao1.py** - Script para cálculo e visualização de payoff de opções.
 - **aplicacao2.py** - Script para cálculo de Value at Risk (VaR) utilizando simulações Monte Carlo.
-- **dados/** - Diretório onde os arquivos de dados históricos de câmbio devem ser armazenados.
+- **dados** - Diretório onde os arquivos de dados históricos de câmbio devem ser armazenados.
 - **relatorio.docx** - Relatório com todas as análises, gráficos, tabelas, e explicações do caso Porsche.
 
 ## Referências
