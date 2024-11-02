@@ -1,6 +1,6 @@
 # APS - Finanças I: Análise Financeira da Klabin S/A
 
-Este projeto tem como objetivo realizar uma análise financeira detalhada da Klabin S/A, focando no cálculo do fluxo de caixa e na projeção da Necessidade de Aportes Financeiros (NAF) para os próximos cinco anos. O estudo foi desenvolvido com base em dados extraídos da plataforma Economatica e inclui projeções para avaliar a saúde financeira e o potencial de crescimento da empresa.
+Este projeto tem como objetivo realizar uma análise financeira detalhada da Klabin S/A, focando no cálculo do fluxo de caixa e na projeção da Necessidade de Aportes Financeiros (NAF) para os próximos cinco anos. O estudo foi desenvolvido com base em dados extraídos da plataforma Economatica e inclui projeções para avaliar a saúde financeira e o potencial de crescimento da empresa. Aqui, você pode ver o relatório final em .pdf, o código em .py para fazer cada um dos gráficos e o .png de cada uma das imagens geradas no python que estão no relatório.
 
 ## Estrutura do Projeto
 
