@@ -1,6 +1,6 @@
 # APS 3 - Modelos para Tomada de Decisão: Dinâmica de Sistemas e Simulação de Monte Carlo
 
-Este projeto aplica conceitos de Dinâmica de Sistemas e Simulação de Monte Carlo para analisar a viabilidade econômica de um investimento em produção de embalagens sustentáveis pela empresa Klabin. O estudo examina o equilíbrio entre oferta e demanda, a tendência de substituição entre diferentes tipos de fibras, e a projeção de receitas e custos, com um foco em avaliação de risco e retorno financeiro.
+Este projeto aplica conceitos de Dinâmica de Sistemas e Simulação de Monte Carlo para analisar a viabilidade econômica de um investimento em produção de embalagens sustentáveis pela empresa Klabin. O estudo examina o equilíbrio entre oferta e demanda, a tendência de substituição entre diferentes tipos de fibras, e a projeção de receitas e custos, com um foco em avaliação de risco e retorno financeiro. Aqui, você encontrará o arquivo em .py entregue nesse projeto.
 
 ## Estrutura do Projeto
 
