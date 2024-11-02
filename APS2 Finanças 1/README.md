@@ -1,6 +1,6 @@
 # APS 2 - Finanças I: Análise de Investimento da Klabin com Simulação de Monte Carlo
 
-Este projeto realiza uma análise de viabilidade de investimento no projeto da máquina MP29 para produção de Eukaliner pela Klabin S/A. A análise inclui projeções de fluxo de caixa, cálculo de VPL, TIR e Payback Descontado, bem como uma simulação de Monte Carlo para avaliar o risco financeiro em diferentes cenários de variação de preço e câmbio.
+Este projeto realiza uma análise de viabilidade de investimento no projeto da máquina MP29 para produção de Eukaliner pela Klabin S/A. A análise inclui projeções de fluxo de caixa, cálculo de VPL, TIR e Payback Descontado, bem como uma simulação de Monte Carlo para avaliar o risco financeiro em diferentes cenários de variação de preço e câmbio. Aqui, você vai contrar os códigos em .py, o relatório entregue em .pdf e a base de dados em .xlsx.
 
 ## Objetivos
 
